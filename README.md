@@ -1,12 +1,12 @@
 ## Hello there! 👋
 
-- 🔭 I’m currently working on beautify my portofolio
-- 🌱 I’m currently learning Web Development using JavaScript ecosystem
-- 👯 I’m looking to collaborate on open-source project
-- 🤔 I’m looking for help with advanced JavaScript patterns
-- 💬 Ask me about JavaScript, React, NodeJS or anything web development
+- 🔭 I’m currently working on beautify my portofolio.
+- 🌱 I’m currently learning Web Development using JavaScript ecosystem.
+- 👯 I’m looking to collaborate on open-source project.
+- 🤔 I’m looking for help with advanced JavaScript patterns.
+- 💬 Ask me about JavaScript, React, NodeJS or anything web development.
 - 📫 How to reach me: nadacantika330@gmail.com
-- ⚡ Fun fact: I am socially awkward
+- ⚡ Fun fact: I am socially awkward. I am a Ghibli and Barbie fan.
 
 ## 🛠️ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
