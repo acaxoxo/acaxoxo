@@ -20,4 +20,7 @@
 </div>
 
 ## 🌐 Connect with Me
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/nada-asmarani-cantika-dewi-262701308/">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon" />
+</a>
+
