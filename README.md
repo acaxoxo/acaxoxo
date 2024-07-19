@@ -26,6 +26,12 @@
 
 # 🧑‍💻 Stats
 
-![Nada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=acaxoxo&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=acaxoxo&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acaxoxo&layout=compact&theme=radical)
-
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=acaxoxo&show_icons=true&theme=radical" alt="Nada's GitHub Stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acaxoxo&layout=compact&theme=radical" alt="Top Langs"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=acaxoxo&theme=radical" alt="GitHub Streak"></td>
+  </tr>
+</table>
