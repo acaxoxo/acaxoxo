@@ -24,8 +24,8 @@
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon" />
 </a>
 
-# Stats
+# 🧑‍💻 Stats
 
-![Nada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=acaxoxo&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acaxoxo&layout=compact&theme=radical)
+![Nada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=acaxoxo&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=acaxoxo&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acaxoxo&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=acaxoxo&theme=radical)
