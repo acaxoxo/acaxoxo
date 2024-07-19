@@ -25,7 +25,6 @@
 </a>
 
 # 🧑‍💻 Stats
-
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=acaxoxo&show_icons=true&theme=radical" alt="Nada's GitHub Stats"></td>
