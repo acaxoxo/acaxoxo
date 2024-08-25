@@ -25,8 +25,4 @@
 </a>
 
 # 🧑‍💻 Stats
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acaxoxo&layout=compact&theme=radical" alt="Top Langs"></td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acaxoxo&layout=compact&theme=radical" alt="Top Langs">
