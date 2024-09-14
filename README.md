@@ -13,9 +13,13 @@
 - ⚡ Fun fact: I am socially awkward. I am a Ghibli and Barbie fan.
 
 ## 🛠️ Languages and Tools
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,cs,jquery,npm,postgres,postman" />
+<div align="center">
+    <div style="margin-bottom: 20px;">
+        <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,tailwind,git" />
+    </div>
+    <div>
+        <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,cs,jquery,npm,postgres,postman" />
+    </div>
 </div>
 
 # 🧑‍💻 Stats
