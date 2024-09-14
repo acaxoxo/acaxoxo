@@ -15,7 +15,7 @@
 ## 🛠️ Languages and Tools
 <div align="left">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,csharp" />
 </div>
 
 # 🧑‍💻 Stats
