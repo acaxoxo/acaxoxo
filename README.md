@@ -15,7 +15,7 @@
 ## 🛠️ Languages and Tools
 <div align="center">
     <div style="margin-bottom: 20px;">
-        <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,tailwind,git,py" />
+        <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,py" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,cs,jquery,npm,postgres,postman" />
