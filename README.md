@@ -23,4 +23,4 @@
 </div>
 
 # 🧑‍💻 Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acaxoxo&layout=compact&theme=radical" alt="Top Langs">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acaxoxo&layout=compact&theme=radical&langs_count=10&hide=css,html)
