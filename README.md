@@ -22,5 +22,14 @@
     </div>
 </div>
 
-# 🧑‍💻 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acaxoxo&layout=compact&theme=radical&langs_count=10&hide=css,html)
+## 🧑‍💻 My GitHub Stats
+
+![acaxoxo's GitHub stats](https://github-readme-stats.vercel.app/api?username=acaxoxo&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=acaxoxo&theme=radical)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acaxoxo&layout=compact&theme=radical&langs_count=8)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=acaxoxo&theme=radical&margin-w=15)](https://github.com/acaxoxo/github-profile-trophy)
+
+
