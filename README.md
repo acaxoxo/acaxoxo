@@ -30,7 +30,7 @@
 
 ### 🛠️ Tools & Environment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,mysql,mongodb,postman" />
+  <img src="https://skillicons.dev/icons?i=windows,mysql,mongodb,postman,vite,npm" />
 </p>
 
 ---
