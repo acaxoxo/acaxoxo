@@ -44,7 +44,13 @@
 
 ---
 
-### 📈 Contribution Graph
+
+### 💫 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=acaxoxo&bg_color=1a1b27&color=8be9fd&line=bd93f9&point=ff79c6&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=acaxoxo&bg_color=0d1117&color=39ff14&line=ff79c6&point=ffffff&area=true&hide_border=true&custom_title=My%20Contribution%20Graph%20🌸" />
 </p>
+
+<p align="center">
+  <img src="https://github.com/acaxoxo/acaxoxo/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
