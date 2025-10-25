@@ -44,6 +44,7 @@
 
 ---
 
+---
 
 ### 💫 Contribution Activity
 <p align="center">
@@ -53,4 +54,3 @@
 <p align="center">
   <img src="https://github.com/acaxoxo/acaxoxo/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
