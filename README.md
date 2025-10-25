@@ -41,3 +41,10 @@
   <a href="https://www.linkedin.com/in/nada-asmarani-cantika-dewi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/AsmaraniAca?t=SOiYBroRnJrEKlyUhmwsSA&s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=acaxoxo&bg_color=1a1b27&color=8be9fd&line=bd93f9&point=ff79c6&area=true&hide_border=true" />
+</p>
