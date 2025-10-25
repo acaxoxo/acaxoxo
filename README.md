@@ -15,7 +15,7 @@
 
 ### 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,html,css,tailwind,bootstrap,vscode,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,html,css,bootstrap,vscode,git,github,python" />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 
 ### 🛠️ Tools & Environment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,nginx,mysql,mongodb,netlify,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=windows,mysql,mongodb,postman" />
 </p>
 
 ---
@@ -39,7 +39,6 @@
 <p align="center">
   <a href="mailto:nadacantika330@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/your-instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
