@@ -44,13 +44,12 @@
 
 ---
 
----
-
 ### 💫 Contribution Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=acaxoxo&bg_color=0d1117&color=39ff14&line=ff79c6&point=ffffff&area=true&hide_border=true&custom_title=My%20Contribution%20Graph%20🌸" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=acaxoxo&bg_color=000000&color=ff79c6&line=39ff14&point=ffffff&area=true&hide_border=true&area_color=39ff14&title_color=ff79c6&custom_title=🌸%20My%20Contribution%20Graph%20💚" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/acaxoxo/acaxoxo/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/acaxoxo/acaxoxo/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="90%" />
 </p>
