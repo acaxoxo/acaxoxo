@@ -20,13 +20,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acaxoxo&layout=compact&theme=tokyonight&hide_border=false" height="160px"/>
-</p>
-
----
-
 ### 🛠️ Tools & Environment
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,mysql,mongodb,postman,vite,npm" />
